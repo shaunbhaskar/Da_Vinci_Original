@@ -1,0 +1,27 @@
+body{
+font-family: 'Noto Serif', serif;
+font-family: 'Syncopate', sans-serif;
+background-image: url("BCK.jpeg");
+}
+.heading{
+font-size: 32px;
+padding-top: 1%;
+width: 100%;
+box-shadow: 5px 5px 5px chartreuse;
+margin: 0%;
+}
+
+.copy_right_footer{
+position: fixed;
+color: darkblue;
+background-color: turquoise;
+line-height: 3;
+text-align: center;
+width: 100%;
+bottom:0;
+}
+
+#show_sketch{
+float: right;
+}
+
